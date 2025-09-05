@@ -58,7 +58,6 @@ const HomeRootLayout = () => {
                 name="profile"
                 options={{
                     title: "Profile",
-
                     tabBarIcon: ({ color }: TabBarIconProps) => (
                         <FontAwesome name="user-o" size={24} color={color} />
                     ),
