@@ -36,6 +36,12 @@ const styles = StyleSheet.create({
     padding: 10,
     marginLeft: 10,
   },
+  filtersWrapper: {
+    height: 100,
+    backgroundColor: "#FFFFFF",
+    paddingVertical: 8,
+    marginTop: 5, // small space below search
+  },
   filterGroup: {
     flexDirection: "row",
     paddingHorizontal: 10,
